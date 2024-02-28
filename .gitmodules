@@ -1,0 +1,3 @@
+[submodule "solace-structurizr-theme"]
+	path = solace-structurizr-theme
+	url = https://github.com/andreas-habel/solace-structurizr-theme.git
